@@ -12,7 +12,7 @@ int main()
 	int a = 0;
 	system("COLOR");
 
-	printf("+++++++++Auswahl+++++++++++");
+	printf("+++++++++Auswahl+++++++++++\n");
 	printf("Bitte Auswahl treffen\n");
 	printf("K = Kindergeburtstag\n");
 	printf("S = Scan berechnen\n");
